@@ -1,0 +1,89 @@
+<resources>
+    <string name="mapKey">AIzaSyA4JD0SP0vetiXq0z50xvu7ZR18hfLtqzg</string><!--AIzaSyDl3pJN233SScRGUQQj7-Whwyvnty8mqbk</string>-->
+    <string name="app_name">Nurse Calling App</string>
+    <string name="image">ProfilePic</string>
+    <string name="enter_mobile">Enter your mobile number</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register Now</string>
+    <string name="not_a_member_yet">Not a member yet?</string>
+    <string name="login">Sign in</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="terms">Terms and Conditions</string>
+    <string name="agree_to_terms">I accept the</string>
+    <string name="logout">Logout</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="payment">Payment</string>
+    <string name="home">Home</string>
+    <string name="update">Update</string>
+    <string name="price_alert">Price Alert</string>
+    <string name="ok">Ok</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="today">Today</string>
+    <string name="medicine">Medicine</string>
+    <string name="lab_test">Lab Tests</string>
+    <string name="health_care">Healthcare</string>
+    <string name="top_products">Top Products</string>
+    <string name="health_checkup">Health Checkups</string>
+    <string name="covid_care">Covid Care</string>
+    <string name="consult_a_doctor">Consult A Doctor</string>
+    <string name="consult">Consult</string>
+    <string name="fever_and_infection">Fever And Infection</string>
+    <string name="account">Account</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="search_products">Search products</string>
+    <string name="view_all_results">View All Results</string>
+    <string name="tab">Tablet</string>
+    <string name="paracetamol">Paracetamol</string>
+    <string name="_15_in_strip">15 in strip</string>
+    <string name="_23">$23</string>
+    <string name="description">Description:</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify">Verify</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="wrong_no">Wrong number?</string>
+    <string name="dean">Dean</string>
+    <string name="winchester">Winchester</string>
+    <string name="dr_winchester_desc">Dr. Winchester is a physician in UK with 19 years experience in general and internal(respiratory) medicine. He has worked in Cambridge University Hospital previously. He is Gold medallist in his MD and currently practising online. He has good experience in treating thyroid ,diabetes, B.P, tuberculosis, asthma, bronchitis, fever, chronic cough,breathing problems, sleep study, with a fare number of satisfied patients.</string>
+    <string name="_91_123456789">+91-123456789</string>
+    <string name="book">Book an appointment</string>
+    <string name="harley_street_health_centre">Harley Street Health Centre</string>
+    <string name="our_experienced_gps_desc">Our experienced GPs can help with many ear, nose and throat conditions and can also offer a fast-track referral to our specialist partners where needed. Experienced doctors and a professional team along with Up-to-date with the latest treatments and testing.</string>
+    <string name="contact">Emergency Contact</string>
+    <string name="general_guidelines">General Guidelines:</string>
+    <string name="order_desc">Order Description</string>
+    <string name="add_product">Add Product</string>
+    <string name="add_order">Add Order</string>
+    <string name="orders">Orders</string>
+    <string name="covid_guidelines">There are no coronavirus (COVID-19) restrictions in the UK. If you have COVID-19 you should try to stay at home. Most people cannot get free COVID-19 tests. You can buy tests in shops but you cannot report the result to the NHS. You can get vaccinated against COVID-19 by the NHS. You do not need to take a test or quarantine when you arrive in the UK. You should check travel advice for the country you are going to.</string>
+    <string name="fever_infection_guidelines">Thermometers and the detection of fever
+                                            Oral and rectal temperature measurements
+                                            Do not routinely use the oral and rectal routes to measure the body temperature of children aged 0 to 5 years. [2007]
+
+                                            Measurement of body temperature at other sites
+
+                                            In infants under the age of 4 weeks, measure body temperature with an electronic thermometer in the axilla. [2007]
+
+                                            In children aged 4 weeks to 5 years, measure body temperature by one of the following methods:
+
+                                            electronic thermometer in the axilla
+
+                                            chemical dot thermometer in the axilla
+
+                                            infra-red tympanic thermometer. [2007]
+
+                                            Healthcare professionals who routinely use disposable chemical dot thermometers should consider using an alternative type of thermometer when multiple temperature measurements are required. [2007]
+
+                                            Forehead chemical thermometers are unreliable and should not be used by healthcare professionals. [2007]
+
+                                            Subjective detection of fever by parents and carers
+
+                                            Reported parental perception of a fever should be considered valid and taken seriously by healthcare professionals. [2007]</string>
+    <string name="google">google</string>
+</resources>
